@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#hugo #blog on Your site title</title>
+    <link>Your%20site%20URL/tags/#hugo-%23blog/</link>
+    <description>Recent content in #hugo #blog on Your site title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright notice</copyright>
+    <lastBuildDate>Tue, 26 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="Your%20site%20URL/tags/#hugo-%23blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>Your%20site%20URL/posts/first-post/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>Your%20site%20URL/posts/first-post/</guid>
+      <description>Hello World, this is my first Hugo post!</description>
+    </item>
+    
+  </channel>
+</rss>

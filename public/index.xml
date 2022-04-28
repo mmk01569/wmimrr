@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your site title</title>
+    <link>Your%20site%20URL/</link>
+    <description>Recent content on Your site title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright notice</copyright>
+    <lastBuildDate>Tue, 26 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="Your%20site%20URL/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>West Mansfield Industrial Model Railroad</title>
+      <link>Your%20site%20URL/about/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>Your%20site%20URL/about/</guid>
+      <description> Waves are the practice of water. Shunryu Suzuki
+ </description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>Your%20site%20URL/posts/first-post/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>Your%20site%20URL/posts/first-post/</guid>
+      <description>Hello World, this is my first Hugo post!</description>
+    </item>
+    
+  </channel>
+</rss>
